@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duncan Yang</h1>
 <h3 align="center">🪄 A frontend developer from Taipei</h3>
-<h5 align="center">Passion in solving business challenge<
+<h5 align="center">Passion in solving business challenge</h5>
 
 - 🔭 I’m currently working on **Gallery X**
 
