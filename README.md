@@ -68,6 +68,7 @@ Passionate at business solutions in tech. 🚀</div>
 
 ## Source to learn
 ![freecodecamp](https://user-images.githubusercontent.com/39251171/189871282-86368766-9340-4d8a-b3ac-f9be606e6b37.png)
+[freecodecamp](https://www.freecodecamp.org/learn)
 
 
 
