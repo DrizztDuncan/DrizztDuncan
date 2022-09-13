@@ -28,7 +28,7 @@ Passionate at business solutions in tech. 🚀</div>
 ## My Skill Set  
 <table><tr><td valign="center" width="33%">
   
-### Frontend  
+### <div align="center"> Frontend  
   
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -50,7 +50,7 @@ Passionate at business solutions in tech. 🚀</div>
 
 </td><td valign="center" width="33%">
   
-### Design
+### <div align="center"> Design
   
 <div align="center">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
