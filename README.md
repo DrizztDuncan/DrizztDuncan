@@ -108,6 +108,3 @@ Passionate at business solutions in tech. 🚀</div>
 
 
 <br />
-
-----
-<div align="left">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
