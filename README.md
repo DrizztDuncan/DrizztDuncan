@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **duncantheinvictus@gmail.com**
 
-- ⚡ Fun fact **Back then, I wanted to become a basketball player in NBA**
+- ⚡ Fun fact **Back then, I want to become a basketball player in NBA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 DrizztDuncan/DrizztDuncan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizztduncan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizztduncan)](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
