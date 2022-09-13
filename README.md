@@ -93,19 +93,9 @@ Passionate at business solutions in tech. 🚀</div>
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=drizztduncan&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizztduncan&theme=cobalt&show_icons=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizztduncan&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizztduncan&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
