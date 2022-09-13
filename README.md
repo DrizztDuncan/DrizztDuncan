@@ -26,7 +26,7 @@ Passionate at business solutions in tech. 🚀</div>
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="">
+<table><tr><td valign="top" width="70%">
 
 
 
@@ -47,7 +47,7 @@ Passionate at business solutions in tech. 🚀</div>
   <br/>
 </div>
 
-</td><td valign="top" width="">
+</td><td valign="top" width="70%">
 
 ### Design
 <div align="top">  
