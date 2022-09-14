@@ -6,9 +6,16 @@
 </div>  
   
 
-### <div align="left">👨‍💻 I'm Duncan, a front-end developer.  </div>  
-### <div align="left">🚀 Passionate at business solutions in tech. </div>  
-### <div align="left">🌟 Looking for a jr. front-end opportunity lately. </div>  
+### <div align="center">👨‍💻 I'm Duncan, a front-end developer.  </div>  
+### <div align="center">🚀 Passionate at business solutions in tech. </div>  
+### <div align="center">🌟 Looking for a jr. front-end opportunity lately. </div>  
+
+# Table of Contents
+1. [Progress](#Progress)
+2. [My Skill Set](#My Skill Set)
+3. [Learning Source](#Learning Source)
+4. [Contact with me](#Contact with me)
+5. [Github Stats](#Github Stats)
 
 ## Progress
 
@@ -66,7 +73,7 @@
 
 </td></tr></table>  
 
-## Source to learn
+## Learning Source
 ![freecodecamp](https://user-images.githubusercontent.com/39251171/189871282-86368766-9340-4d8a-b3ac-f9be606e6b37.png)
 [freecodecamp](https://www.freecodecamp.org/learn)
 
@@ -76,7 +83,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contact with me  
 <div align="center">
 <a href="https://github.com/DrizztDuncan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
