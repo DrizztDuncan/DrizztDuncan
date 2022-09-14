@@ -10,7 +10,7 @@
 ### <div align="center">🚀 Passionate at business solutions in tech. </div>  
 ### <div align="center">🌟 Looking for a jr. front-end opportunity lately. </div>  
 
-# Catagory
+## Catagory
 1. [Progress](#Progress)
 2. [My Skill Set](#My_Skill_Set)
 3. [Learning Source](#Learning_Source)
