@@ -101,18 +101,11 @@
 
 ## Github Stats  
 
-</td><td valign="center" width="33%">
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizztduncan&theme=cobalt&show_icons=true)</div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizztduncan&theme=cobalt&show_icons=true)
-  
-</td></tr></table>  
 
-
-</td><td valign="center" width="33%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizztduncan&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
-  
-</td></tr></table>  
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizztduncan&hide=dart)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 <br/>  
 
