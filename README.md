@@ -11,7 +11,7 @@
 ### <div align="left">Looking for a jr. front-end opportunity lately. 🌟</div>  
 ---
   
-  <table><tr>
+
 - 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
   
 
@@ -22,7 +22,7 @@
   
 
 - ⚡ Fun fact: I used to think I can be a professional basketball player in NBA  
-</tr></table>
+
 
 
 ## My Skill Set  
