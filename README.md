@@ -21,10 +21,8 @@
   
 
 - ⚡ Fun fact: I used to think I can be a professional basketball player in NBA  
-  
----
 
-<br/>  
+
 
 
 ## My Skill Set  
