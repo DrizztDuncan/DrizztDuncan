@@ -10,7 +10,6 @@
 ### <div align="center">Passionate at business solutions in tech. 🚀</div>  
 ### <div align="center">Looking for a jr. front-end opportunity lately. 🌟</div>  
   
-<table><tr><td valign="center" width="100%">
   
 - 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
   
@@ -23,7 +22,6 @@
 
 - ⚡ Fun fact: I used to think I can be a professional basketball player in NBA  
   
-</td></tr></table>  
 
 <br/>  
 
