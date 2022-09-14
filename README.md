@@ -10,14 +10,14 @@
 ### <div align="center">🚀 Passionate at business solutions in tech. </div>  
 ### <div align="center">🌟 Looking for a jr. front-end opportunity lately. </div>  
 
-## Catagory
+## Catalog
 1. [Progress](#Progress)
 2. [My Skill Set](#My_Skill_Set)
 3. [Learning Source](#Learning_Source)
-4. [Contact with me](#Contact_with_me)
+4. [Contact With Me](#Contact_With_Me)
 5. [Github Stats](#Github_Stats)
 
-## Progress
+## Progress<a name="Progress"></a>
 
 - 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
   
@@ -32,7 +32,7 @@
 
 
 
-## My Skill Set  
+## My Skill Set<a name="My_Skill_Set"></a>
 <table><tr><td valign="center" width="33%">
   
 ### <div align="center"> Frontend  
@@ -73,7 +73,7 @@
 
 </td></tr></table>  
 
-## Learning Source
+## Learning Source<a name="Learning_Source"></a>
 ![freecodecamp](https://user-images.githubusercontent.com/39251171/189871282-86368766-9340-4d8a-b3ac-f9be606e6b37.png)
 [freecodecamp](https://www.freecodecamp.org/learn)
 
@@ -83,7 +83,7 @@
 <br/>  
 
 
-## Contact with me  
+## Contact With Me<a name="Contact_With_Me"></a>
 <div align="center">
 <a href="https://github.com/DrizztDuncan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -106,7 +106,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats<a name="Github_Stats"></a>
 
 <div align="center">
   
