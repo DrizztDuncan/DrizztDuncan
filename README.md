@@ -10,7 +10,7 @@
 Passionate at business solutions in tech. 🚀</div>  
   
 
-- 🔭 I’m currently working on [View]()  
+- 🔭 I’m currently working on [xarehub](https://github.com/DrizztDuncan/xarehub)  
   
 
 - 🌱 I’m currently learning Typescript/Next.js/SASS  
