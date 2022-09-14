@@ -8,6 +8,7 @@
 
 ### <div align="center">I'm Duncan, a front-end developer. 👨‍💻 </div>  
 ### <div align="center">Passionate at business solutions in tech. 🚀</div>  
+### <div align="center">I'm now looking for a jr. front-end opportunity. 🚀</div>  
   
 
 - 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
