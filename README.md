@@ -6,9 +6,8 @@
 </div>  
   
 
-### <div align="center">I'm Duncan, a front-end developer. 👨‍💻 
-  <br/>
-Passionate at business solutions in tech. 🚀</div>  
+### <div align="center">I'm Duncan, a front-end developer. 👨‍💻 </div>  
+### <div align="center">Passionate at business solutions in tech. 🚀</div>  
   
 
 - 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
