@@ -10,7 +10,7 @@
 ### <div align="left">🚀 Passionate at business solutions in tech. </div>  
 ### <div align="left">🌟 Looking for a jr. front-end opportunity lately. </div>  
 
-## S
+## Progress
 
 - 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
   
