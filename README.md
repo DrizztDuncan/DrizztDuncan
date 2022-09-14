@@ -13,9 +13,9 @@
 # Table of Contents
 1. [Progress](#Progress)
 2. [My Skill Set](#My_Skill_Set)
-3. [Learning Source](#Learning Source)
-4. [Contact with me](#Contact with me)
-5. [Github Stats](#Github Stats)
+3. [Learning Source](#Learning_Source)
+4. [Contact with me](#Contact_with_me)
+5. [Github Stats](#Github_Stats)
 
 ## Progress
 
