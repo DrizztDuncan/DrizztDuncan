@@ -6,9 +6,9 @@
 </div>  
   
 
-### <div align="left">I'm Duncan, a front-end developer. 👨‍💻 </div>  
-### <div align="left">Passionate at business solutions in tech. 🚀</div>  
-### <div align="left">Looking for a jr. front-end opportunity lately. 🌟</div>  
+### <div align="left">👨‍💻 I'm Duncan, a front-end developer.  </div>  
+### <div align="left">🚀 Passionate at business solutions in tech. </div>  
+### <div align="left">🌟 Looking for a jr. front-end opportunity lately. </div>  
 ---
   
 
