@@ -108,12 +108,12 @@
 
 ## Github Stats  
 
-<div>
+<div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drizztduncan&theme=cobalt&show_icons=true)
   
 </div>  
-<div>
+<div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizztduncan&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
 
