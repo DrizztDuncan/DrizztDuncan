@@ -7,16 +7,17 @@
   
 
 ### <div align="center">I'm Duncan, a front-end developer. 👨‍💻 
+  <br/>
 Passionate at business solutions in tech. 🚀</div>  
   
 
-- 🔭 I’m currently working on [xarehub](https://github.com/DrizztDuncan/xarehub)  
+- 🔭 I’m currently working on side project: [xarehub](https://github.com/DrizztDuncan/xarehub)  
   
 
 - 🌱 I’m currently learning Typescript/Next.js/SASS  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to technology and business 
   
 
 - ⚡ Fun fact: I used to think I can be a professional basketball player in NBA  
