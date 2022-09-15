@@ -77,7 +77,7 @@
 ![freecodecamp](https://user-images.githubusercontent.com/39251171/189871282-86368766-9340-4d8a-b3ac-f9be606e6b37.png)
 [freecodecamp](https://www.freecodecamp.org/learn)
 
-![image](https://user-images.githubusercontent.com/39251171/190327184-990d21d6-664b-4831-9ae0-d2d873caaca4.png)
+![stackoverflow](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png)
 [stackoverflow](https://stackoverflow.com/)
 
 
