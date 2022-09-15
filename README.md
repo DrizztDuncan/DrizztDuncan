@@ -78,7 +78,7 @@
 [freecodecamp](https://www.freecodecamp.org/learn)
 
 ![image](https://user-images.githubusercontent.com/39251171/190327184-990d21d6-664b-4831-9ae0-d2d873caaca4.png)
-[stackoverflow](https://stackoverflow.co/img/product/og/og-company.png)
+[stackoverflow](https://stackoverflow.com/)
 
 
 
